@@ -4,6 +4,8 @@ Como parte de la ruta "Principiante en Programación" del Programa ONE de Oracle
 
 El encriptador consiste en un text area el cuál recibe un texto en minúsculas, dos botones de encriptar y desencriptar y una sección que recibe el texto encriptado con un botón de copiar texto.
 
+El diseño se basa en el propuesto por Alura publicando en Figma.
+
 Para el correcto funcionamiento se marcaron algunas pautas importantes:
 
   *El texto que se recibe debe ser totalmente en minúsculas. 
