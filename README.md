@@ -30,6 +30,7 @@ El encriptado del texto se basa en las siguientes llaves:
 
 La funcionalidad del encriptador se basa principalmente en la delegación de eventos en los botones de encriptar y desencriptar, así como el uso de expresiones regulares para el reemplazo de acentos y carácteres especiales.
 
+Considerando la adaptabilidad a otros dispositivos, se hizo un proyecto responsivo, adaptándolo principalmente a tablet y smartphone.
 
 
 
