@@ -1,4 +1,4 @@
-# ORACLE NEXT EDUCATIO - DESAFÍO: ENCRIPTADOR DE TEXTO.
+# ORACLE NEXT EDUCATION - DESAFÍO: ENCRIPTADOR DE TEXTO.
 
 Como parte de la ruta "Principiante en Programación" del Programa ONE de Oracle y Alura Latinoamérica se realiza este desafío que consiste en un encriptador de texto, utilizando JavaScript, HTML y CSS.
 
