@@ -33,11 +33,11 @@ Una vez encriptado el texto también es posible convertir esta palabra a su vers
 
 El encriptado del texto se basa en las siguientes llaves:
 
- *La letra "e" es convertida para "enter",
- *la letra "i" es convertida para "imes",
- *la letra "a" es convertida para "ai",
- *la letra "o" es convertida para "ober",
- *la letra "u" es convertida para "ufat.
+ -La letra "e" es convertida para "enter",
+ -la letra "i" es convertida para "imes",
+ -la letra "a" es convertida para "ai",
+ -la letra "o" es convertida para "ober",
+ -la letra "u" es convertida para "ufat.
 
 
 La funcionalidad del encriptador se basa principalmente en la delegación de eventos en los botones de encriptar y desencriptar, así como el uso de expresiones regulares para el reemplazo de acentos y carácteres especiales.
