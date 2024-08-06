@@ -4,7 +4,19 @@ Como parte de la ruta "Principiante en Programación" del Programa ONE de Oracle
 
 El encriptador consiste en un text area el cuál recibe un texto en minúsculas, dos botones de encriptar y desencriptar y una sección que recibe el texto encriptado con un botón de copiar texto.
 
-![Encriptador](https://github.com/user-attachments/assets/fbf6ec7b-0be6-4cfe-9344-abfcec4d147f)
+
+Versión para escritorio:
+
+![Encriptador](./assets/desktop.png)
+
+Versión para tableta:
+
+![Encriptador](./assets/tablet.png)
+
+Versión para móvil:
+
+![Encriptador](./assets/mobile.png)
+
 
 
 El diseño se basa en el propuesto por Alura publicando en Figma.
@@ -32,7 +44,11 @@ La funcionalidad del encriptador se basa principalmente en la delegación de eve
 
 Considerando la adaptabilidad a otros dispositivos, se hizo un proyecto responsivo, adaptándolo principalmente a tablet y smartphone.
 
+## Herramientas utilizadas:
 
+ ![imagen](assets/icons8-html.svg)
+
+ ![imagen](assets/icons8-css.svg)
 
 
 
