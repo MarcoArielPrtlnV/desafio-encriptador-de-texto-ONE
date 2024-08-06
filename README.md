@@ -17,6 +17,9 @@ Versión para móvil:
 
 ![Encriptador](./assets/mobile.png)
 
+Modo oscuro 
+
+![Encriptador](./assets/dark-mode.png)
 
 
 El diseño se basa en el propuesto por Alura publicando en Figma.
@@ -42,7 +45,8 @@ El encriptado del texto se basa en las siguientes llaves:
 
 La funcionalidad del encriptador se basa principalmente en la delegación de eventos en los botones de encriptar y desencriptar, así como el uso de expresiones regulares para el reemplazo de acentos y carácteres especiales.
 
-Considerando la adaptabilidad a otros dispositivos, se hizo un proyecto responsivo, adaptándolo principalmente a tablet y smartphone.
+
+Considerando la adaptabilidad a otros dispositivos, se hizo un proyecto responsivo, cómodo y amigable a la vista.
 
 ## Herramientas utilizadas:
 
@@ -54,3 +58,10 @@ Considerando la adaptabilidad a otros dispositivos, se hizo un proyecto responsi
 
 
 
+
+## Hecho por:
+
+**Marco Pretelín Vergara (MV Developer)**
+
+![imagen](assets/icons8-linkedin.svg)
+ ## https://www.linkedin.com/in/marco-ariel-pretelin-vergara/
