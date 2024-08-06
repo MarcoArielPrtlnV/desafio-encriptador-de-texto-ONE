@@ -17,7 +17,7 @@ Versión para móvil:
 
 ![Encriptador](./assets/mobile.png)
 
-Modo oscuro 
+Modo oscuro: 
 
 ![Encriptador](./assets/dark-mode.png)
 
