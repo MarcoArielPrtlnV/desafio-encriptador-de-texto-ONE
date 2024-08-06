@@ -23,9 +23,9 @@ El diseño se basa en el propuesto por Alura publicando en Figma.
 
 Para el correcto funcionamiento se marcaron algunas pautas importantes:
 
-  *El texto que se recibe debe ser totalmente en minúsculas,
-  *no debe tener acentos,
-  *no debe tener caractéres especiales.
+  * El texto que se recibe debe ser totalmente en minúsculas,
+  * no debe tener acentos,
+  * no debe tener caractéres especiales.
 
 Una vez encriptado el texto también es posible convertir esta palabra a su versión original.
 
