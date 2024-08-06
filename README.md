@@ -46,6 +46,8 @@ Considerando la adaptabilidad a otros dispositivos, se hizo un proyecto responsi
 
 ## Herramientas utilizadas:
 
+![imagen](assets/icons8-javascript.svg)
+
  ![imagen](assets/icons8-html.svg)
 
  ![imagen](assets/icons8-css.svg)
