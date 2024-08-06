@@ -14,6 +14,7 @@
     --medium-blue: #0a38718a;
     --grey: #343a40;
     --light-grey: #495057;
+    --color-dark-mode: #021526;
 
 }
 
@@ -72,11 +73,11 @@ header .mv-logo {
 
 /* MAIN */
 
-main  {
+.main  {
 
     display: flex;
     flex-direction: row;
-    background: url(../assets/portada.png) no-repeat;
+    background: url(../assets/portada-2.png) no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -216,7 +217,7 @@ main  {
 .img-muñeco {
 
     background: var(--font);
-}
+} 
 
 .texto-uno {
 
@@ -319,6 +320,8 @@ footer {
 
 }
 
+
+
 .github:hover {
 
     color: var(--font);
@@ -326,11 +329,61 @@ footer {
 }
 
 
+/* DARK THEME BUTTON */
+
+.dark-theme-btn {
+
+    position: fixed;
+    z-index: 999;
+    bottom: 1vh;
+    left: 1vw;
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 50%;
+    font-size: 1rem;
+    font-weight: bold;
+    background-color: var(--dark-blue);
+    color: var(--gray);
+    cursor: pointer;
+    outline: 0;
+    border: 0;
+    transition: all 0.3s ease-out;
+
+}
+
+.dark-theme-btn:hover {
+
+    transform: scale(0.98);
+    background-color: var(--gray);
+    color: var(--dark-blue);
+    
+
+}
+
+.dark-theme-btn:active {
+
+        box-shadow: inset 2px 2px 4px var(--dark-blue),
+        inset -3px -4px 8px var(--bgnd);
+        color: var(--medium-blue);
+}
+
+.dark-mode {
+
+    background-color: var(--color-dark-mode);
+    color: #ffff;
+    z-index: 999;
+}
+
+
+
+
+
+
 /* MEDIA QUERYS */
 
 @media(max-width: 1250px) {
 
-    main {
+    .main {
 
         display: flex;
         flex-direction: column;

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="es" data-dark>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="./css/styles.css">
     <title>MV Developer - "Encriptador de Texto".</title>
 </head>
-<body>
+<body data-dark>
 
     <!-- ENCABEZADO -->
 
@@ -20,7 +20,7 @@
 
     <!-- SECCIÓN MAIN O DE ENCRIPTADO DE TEXTO -->
 
-    <main>
+    <main class="main">
         <section class="encriptador">
             <textarea class="encriptar" placeholder="Ingrese el texto aquí..."></textarea>
             <div class="aviso-encriptador">
@@ -63,9 +63,15 @@
         </a>
     </footer>
 
+    <button class="dark-theme-btn">🌙</button>
+
 
 
     <script src="./main.js"></script>
+    <script src="./dark-theme.js" type="module"></script>
+
+    
+
 
 </body>
 </html>
